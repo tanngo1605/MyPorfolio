@@ -1,0 +1,25 @@
+
+project1: eduflow
+images...
+
+React Native
+
+...still in developing...
+
+
+projects2 : rutgers menu
+images...
+Front: react
+Back: nodejs Mongo
+Des: How do you know how thats food look like without the images? And admin page for admin to change food overtime.
+
+
+
+Project3: 
+imgages...
+Exercise tracker: MERN
+Link demo ...
+News API...
+
+
+Project 4: software Engineering
